@@ -1,0 +1,2 @@
+# Tiket
+almasih firdaus ooad
